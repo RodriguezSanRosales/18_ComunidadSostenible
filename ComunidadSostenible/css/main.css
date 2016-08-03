@@ -1,0 +1,130 @@
+/* Inserta tu codigo aqui */
+/*navegador*/
+nav {
+
+	margin-left: 50px;
+}
+li {
+	display: inline-block;
+	padding-top: 45px;
+	padding-left: 25px;
+	font-size: 20px;
+
+
+}
+a {
+	text-decoration: none;
+	color: #000000;
+
+}
+/*texto*/
+.whiteText {
+    color: #FFFFFF;
+}
+
+.logo {
+	width: 50%;
+	height: 50%;
+	padding-left: 40px;
+}
+.textoEquip {
+	text-align: left;
+	color: #86B404;
+	font-size: 30px;
+}
+/*imagenes*/
+.imgSemilla {
+	width: 102%;
+	
+}
+.imgMetodo {
+	width: 104%;
+	height: 100%;
+}
+
+.fotoProyecto {
+	width: 75%;
+	margin-left: 75px;
+}
+.imgRedonda {
+	border-radius: 50%;
+	width: 40%;
+}
+.iconos {
+	width: 5%;
+}
+.imgBlog {
+	width: 100%;
+	height: 100%;
+}
+.iconBlog {
+	width: 70%;
+	padding-top: 130px;
+}
+.imgTabla {
+	width: 15%;
+	float: right;
+}
+
+/*acomodo*/
+.acomodo {
+	padding: 75px 0; 
+}
+.acomodoText {
+	padding: 15px;
+}
+.acomodoLineas {
+	padding-top: 85px;
+}
+.acomodoExtremo {
+	padding-top: 260px;
+}
+.acomodoLados {
+	padding: 5px 40px;
+}
+/*fondos*/
+.fondoProyect{
+	background-color: #688A08;
+	margin-top: 45px;
+
+}
+
+.fondoIni {
+	background-color: #F2F2F2;
+	height: 250px;
+	width: 100%;
+}
+/*fondo de metodología*/
+.fondoGre {
+	background-image: url("../img/fondo.jpg");
+	width: 660px;
+	height: 449px;
+}
+
+.fondoBlog {
+	background-image: url("../img/fondo2.jpg");
+	width: 100%;
+	padding: 50px;
+	margin-top: 30px;
+}
+.fondoTabla {
+	background-color: #2E2E2E;
+	padding: 80px;
+}
+
+.borde {
+	border: solid #FFFFFF 2px;
+	
+	height: 250px;
+}
+/*footer*/
+footer {
+	padding: 85px 75px;
+	background-color: #EFFBF8;
+}
+.textFoot {
+	text-align: right;
+}
+.colorLab {
+	color: #FACC2E;
+}
